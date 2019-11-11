@@ -31,3 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Week 1
 Check out my first [assignment](https://pjournal.github.io/mef03-emirinanc/RMarkdown_Assignment.html)
 
+### BKM Assignment
+
+Check out my [ BKM assignment](https://pjournal.github.io/mef03-emirinanc/BKM_EI.html)
